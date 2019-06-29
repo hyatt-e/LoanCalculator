@@ -1,5 +1,3 @@
-// TODO: Add a clear button that shows up when a value is entered (OR after submit)
-
 // Listen for submit
 document.getElementById('loan-form').addEventListener('submit', calculateResults);
 let inputListeners = false
